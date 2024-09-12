@@ -1,0 +1,5 @@
+https://codesandbox.io/p/sandbox/event-handling-in-react-2tltl?file=%2Fsrc%2Fcomponents%2FApp.jsx
+
+https://www.w3schools.com/tags/ref_eventattributes.asp
+
+https://codesandbox.io/p/sandbox/event-handling-in-react-completed-61rti?file=%2Fsrc%2Fcomponents%2FApp.jsx

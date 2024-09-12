@@ -1,0 +1,17 @@
+https://www.appbrewery.co/p/web-development-course-resources/
+
+https://codesandbox.io/p/sandbox/using-pre-built-react-components-s13gn?file=%2Fsrc%2Fcomponents%2FApp.jsx
+
+https://www.npmjs.com/package/@material-ui/icons
+
+https://www.npmjs.com/package/@material-ui/core
+
+https://mui.com/material-ui/icons/
+
+https://mui.com/material-ui/react-button/#floating-action-buttons
+
+https://mui.com/material-ui/api/zoom/
+
+https://www.transparenttextures.com/
+
+https://codesandbox.io/p/sandbox/using-pre-built-react-components-completed-58bxk?file=%2Fsrc%2Findex.js

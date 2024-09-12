@@ -1,0 +1,7 @@
+https://codesandbox.io/p/sandbox/es6-spread-operator-fuc1n?file=%2Fsrc%2Findex.js
+
+https://stackoverflow.com/questions/11508463/javascript-set-object-key-by-variable?noredirect=1&lq=1
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax
+
+https://codesandbox.io/p/sandbox/es6-spread-operator-completed-3w3pp?file=%2Fsrc%2Findex.js

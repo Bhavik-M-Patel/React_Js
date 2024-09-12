@@ -1,0 +1,1 @@
+https://codesandbox.io/p/sandbox/es6-destructuring-completed-zvjn9?file=%2Fsrc%2Findex.js

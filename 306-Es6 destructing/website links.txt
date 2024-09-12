@@ -1,0 +1,5 @@
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment
+
+https://codesandbox.io/p/sandbox/es6-destructuring-completed-zvjn9?file=%2Fsrc%2Findex.js
+
+https://codesandbox.io/p/sandbox/es6-destructuring-ide4v?file=%2Fsrc%2Findex.js%3A1%2C1-24%2C1

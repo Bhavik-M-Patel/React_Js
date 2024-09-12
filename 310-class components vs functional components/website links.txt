@@ -1,0 +1,7 @@
+https://legacy.reactjs.org/docs/state-and-lifecycle.html
+
+https://legacy.reactjs.org/docs/hooks-intro.html
+
+https://legacy.reactjs.org/docs/hooks-faq.html#should-i-use-hooks-classes-or-a-mix-of-both
+
+https://codesandbox.io/p/sandbox/class-components-vs-hooks-m2lzf?file=%2Fsrc%2Fcomponents%2FFunctionalComponent.jsx
